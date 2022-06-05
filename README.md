@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnson
+- 👋 Hi, I’m @Johnson170
 - 👀 I’m come from China
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on it
